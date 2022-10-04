@@ -1638,6 +1638,7 @@ input:focus,
 }
 @media(max-width: 440px){
   .wrapper .center-line,
+  .center-line1,.center-line2,
   .row section::before,
   .row section .icon{
     display: none;
