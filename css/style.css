@@ -37,7 +37,6 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 1.5%;
 }
 #logo img {
   width: 180px;
@@ -46,6 +45,7 @@ nav {
   width: 80%;
   height: 100%;
   float: left;
+  padding-top: 2%;
 }
 .navlinks {
   height: 100%;
