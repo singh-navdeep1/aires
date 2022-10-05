@@ -123,7 +123,7 @@ nav ul li a:hover {
 #c1 h1 {
   display: inline-block;
   text-transform: uppercase;
-  font-size:42px;
+  font-size:44px;
   color:#fff;
   font-weight: 700;
   line-height: 55px;
@@ -182,15 +182,15 @@ nav ul li a:hover {
 } 
 #c2 {
   width: 35%;
-  height: 600px;
+  height: auto;
   background-color: #d80516;
   float: right;
-  margin-top: 8%;
+  margin-top: 4%;
+  padding: 2% 0;
   position: relative;
   z-index: 2;
 }
 #c2 h2 {
-  padding-top: 10%;
   color: #fff;
   text-align: center;
   font-size: 26px;
@@ -224,7 +224,23 @@ input:focus,
   padding-left: 5%;
   border: none;
 }
-#company {
+#date1 {
+  width: 80%;
+  height: 40px;
+  float: left;
+  margin: 4% 10%;
+  padding-left: 5%;
+  border: none;
+}
+#from1 {
+  width: 80%;
+  height: 40px;
+  float: left;
+  margin: 4% 10%;
+  padding-left: 5%;
+  border: none;
+}
+#to1 {
   width: 80%;
   height: 40px;
   float: left;
@@ -331,6 +347,58 @@ input:focus,
   width: 30%;
   border: solid 2px #d80516 ;
 }
+.service{
+  width: 100%;
+  height: auto;
+  float: left;
+  margin-top: 2%;
+}
+.heading{
+  font-size: 36px;
+  font-weight: 700;
+  color:#000;
+  text-transform: uppercase;
+  text-align: center;
+}
+.para{
+  color:#999; 
+  padding: 0 3%;
+  letter-spacing: .5px;
+  font-size: 14px;
+  font-weight: 500;
+  /* text-transform: capitalize; */
+  text-align: center;
+}
+.boxsec{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.box2{
+  width: 48%;
+  height: 340px;
+  background-color: #fff;
+  padding-top: 2%;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+  margin: 2% 0;
+  overflow: hidden;
+  transition: transform .2s;
+}
+.box2 img{
+  display: block;
+  margin: 2% auto;
+}
+.box2 h3{
+  font-size: 22px;
+  font-weight: 600;
+  color: #000;
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+
 .con3 {
   width: 100%;
   height: auto;
@@ -340,7 +408,11 @@ input:focus,
   background-size: cover; 
   float: left;
 }
-
+.con3 h2{
+  padding: 2% 2%;
+  font-size: 30px;
+  font-weight: 600;
+}
 .c7 {
   max-width: 1200px;
   width: 100%;
@@ -350,7 +422,6 @@ input:focus,
 #form2 {
   width: 50%;
   height: 500px;
-  margin-top: 5%;
   /* margin: 5% auto; */
   /* padding-top: 2%; */
   float: left;
@@ -426,8 +497,8 @@ input:focus,
 }
 ::placeholder {
   text-transform: capitalize;
-  font-size: 17px;
-  color: #999;
+  font-size: 18px;
+  color: #1C2024;
 }
 .colr{
 background-color: #fff;
@@ -438,12 +509,14 @@ color: #000;
   background-color: #000;
   color: #fff;
 }
+
 .con {
   width: 100%;
   height: auto;
   display: flex;
   justify-content: center;
   float: left;
+  margin: 2% 0;
 }
 .sec3 {
   width: 40%;
@@ -624,7 +697,7 @@ footer {
   margin-bottom: 5%;
 }
 .line{
-  width: 60px;
+  width: 180px;
   height: 4px;
   background-color:#BB0B0B ;
   margin-bottom: 7%;
@@ -1463,13 +1536,30 @@ input:focus,
   font-family:  "Gloria Hallelujah",cursive;
   font-weight: bold;
 }
+
+.checklist{
+  width: 100%;
+  float: left;
+}
+.ml{
+  margin-left: 43%;
+}
+.headsec{
+  width: 100%;
+
+}
+.headsec h2{
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
 ::selection{
   color: #fff;
   background: #ff7979;
 }
 .wrapper{
   width: 100%;
-  margin: 50px auto;
+  margin: 10px auto;
   padding: 0 20px;
   float: left;
   position: relative;

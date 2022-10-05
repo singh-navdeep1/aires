@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_2616" data-name="Group 2616" transform="translate(-98 -177)">
+    <rect id="Rectangle_5750" data-name="Rectangle 5750" width="40" height="40" transform="translate(98 177)" fill="none"/>
+    <g id="Page-1" transform="translate(108 186)">
+      <g id="Group-1021" transform="translate(0 0)">
+        <g id="Group_1216" data-name="Group 1216" transform="translate(0 0)">
+          <g id="Group">
+            <path id="Fill-708" d="M14.461,3.566H13.2V2.982h1.265a.292.292,0,0,1,0,.583" transform="translate(-7.328 -1.656)" fill="#f26666" fill-rule="evenodd"/>
+            <path id="Fill-709" d="M10.312,2.735V1.346A.931.931,0,0,0,9.846.539L9.129.125a.93.93,0,0,0-.932,0L7.48.539a.931.931,0,0,0-.466.807V2.735a1.446,1.446,0,0,0,.723,1.252l.231.133a1.388,1.388,0,0,0,1.39,0l.231-.133a1.446,1.446,0,0,0,.723-1.252" transform="translate(-3.895 0)" fill="#efe6df" fill-rule="evenodd"/>
+            <path id="Fill-710" d="M8.663,1.775a9.826,9.826,0,0,1,1.649.134V1.346A.931.931,0,0,0,9.846.539L9.129.125a.932.932,0,0,0-.932,0L7.48.539a.931.931,0,0,0-.466.807V1.91a9.826,9.826,0,0,1,1.649-.134" transform="translate(-3.895 0)" fill="#f2a35e" fill-rule="evenodd"/>
+            <path id="Fill-711" d="M3.069,12.35.3,15.174a1.064,1.064,0,0,0,.761,1.808H3.234Z" transform="translate(0 -6.858)" fill="#efe6df" fill-rule="evenodd"/>
+            <path id="Fill-712" d="M6.512,10.828c-1.454,0-2.685,1.042-3.105,5.31H4.851a.408.408,0,1,1,0,.816H4.266a.975.975,0,0,0-.977.931c-.024.58-.037,1.206-.037,1.881v7.07a.554.554,0,0,0,1.094.125L5.9,20.253a.628.628,0,0,1,.612-.487h0a.628.628,0,0,1,.612.487L8.677,26.96a.554.554,0,0,0,1.094-.125v-7.07c0-7.344-1.46-8.938-3.26-8.938" transform="translate(-1.806 -6.013)" fill="#efe6df" fill-rule="evenodd"/>
+            <path id="Fill-713" d="M18.99,15.572l-.9-.283a5.173,5.173,0,0,1-2.038-1.208l-2.078-2,.888,3.773.6.141h.006c-.016-.121-.034-.241-.052-.357a.437.437,0,0,1,.863-.138q.027.159.051.328a.441.441,0,0,0,.379.377,10.753,10.753,0,0,0,1.255.076h.914a.364.364,0,0,0,.109-.712" transform="translate(-7.76 -6.71)" fill="#efe6df" fill-rule="evenodd"/>
+            <path id="Fill-714" d="M32.064,37.348H23.936a.674.674,0,0,1-.675-.675V29.435a.674.674,0,0,1,.675-.674h8.128a.674.674,0,0,1,.675.674v7.239a.674.674,0,0,1-.675.675" transform="translate(-12.918 -15.972)" fill="#f2a35e" fill-rule="evenodd"/>
+            <path id="Fill-715" d="M33.118,31.206h-1.8a.461.461,0,0,1-.461-.461V28.76H33.58v1.985a.461.461,0,0,1-.461.461" transform="translate(-17.136 -15.972)" fill="#f26666" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
