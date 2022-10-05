@@ -1,4 +1,4 @@
-var delay = 3000; //in milleseconds
+var delay = 1000; //in milleseconds
 
 jQuery(document).ready(function($){
   setTimeout(function(){ showNewsletterPopup(); }, delay);
