@@ -42,4 +42,3 @@ function getCookie(cname)
     return "";
 }
 
-
